@@ -188,3 +188,69 @@
     font-size: 48px;
 }
 
+.second-brain-bullet-point{
+    display: flex;
+    align-items: center;
+}
+
+.bullet-point-img{
+    height: 20px;
+    width: 20px;
+    margin-right: 6px;
+}
+
+.ready-to-think-more{
+    width: 1360px;
+    height: 384px;
+    margin-top: 120px;
+    background-color: #F7F6F2;
+    margin-left: 80px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ready-to-think-more-title{
+    font-weight: 700px;
+    font-size: 48px;
+}
+
+footer{
+    margin-top: 120px;
+    background-color: #001931;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 120px;
+    height: 284px;
+}
+
+.logo-and-social-link-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.footer-icon-container{
+    color: white;
+    gap: 16px;
+}
+
+.foot-logo {
+    width: 139px;
+    height: 60px;
+}
+
+.white-line {
+    border-top: 1px solid #E5E7EB;
+    height: 1px;
+    width: 1360px;
+    margin-bottom: 30px;
+}
+
+.footer-last-text {
+    text-align: center;
+    color: white;
+}
